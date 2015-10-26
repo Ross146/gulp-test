@@ -1,0 +1,18 @@
+/*@import 'nib'*/
+
+.wrapper{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+}
+
+/*
+.wrapper div{
+    border solid 1px red
+    margin 10px
+    width 100px
+    height 100px
+    background: gray
+    font-size: 30px;
+    
+}*/
